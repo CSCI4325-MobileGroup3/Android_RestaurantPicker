@@ -119,4 +119,4 @@ Mobile App Dev - App Brainstorming
    - **Habit:** Frequency of use should be high for the average study who studies many hours. They would somsume and can create their own quizes to help them study.
    - **Scope:** The scope of this app can be simple but can be challenging depending on how much features you want to implement. A stripped down version is also possible.
 ## Final app idea chosen
-   - ** Restaurant Picker
+   - **Restaurant Picker**
