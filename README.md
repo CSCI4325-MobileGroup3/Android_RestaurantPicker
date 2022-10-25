@@ -38,6 +38,7 @@ Create lists of restaurants, and then randomly pick a restaurant on that list. P
 * Button to add restaurant to a list from the map
 * List of recently visited restaurants
 * History or restaurants you recently viewed in the app
+* History of recently edited lists
 
 ### 2. Screen Archetypes
 
@@ -71,13 +72,16 @@ Create lists of restaurants, and then randomly pick a restaurant on that list. P
 **Flow Navigation** (Screen to Screen)
 
 * Home
-  - [list screen navigation here]
-  - ...
+  - => Edit List Screen
+  - => Map Screen with Restaurant Details ( Recently Visited or Random )
 * Lists
-  - [list screen navigation here]
-  - ...
-* List Editing
+  - => Edit List Screen
+  - => Map Screen with Randomly Selected Restaurant
+* Edit List Screen
+  - => Lists Screen After Hitting Done
 * Map
+  - => None from this app
+  - => Google Maps for directions
 * Settings
   - => None
 
