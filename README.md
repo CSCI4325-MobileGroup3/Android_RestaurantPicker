@@ -89,4 +89,19 @@ Hand Drawn WireFrame:
 
 ### [BONUS] Digital Wireframes & Mockups
 
+* Home Screen
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/HomeScreen.png" width=600>
+
+* List Screen
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/ListView.png" width=600>
+
+* Edit List Screen
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/EditList.png" width=600>
+
+* Map Screen
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/Map.png" width=600>
+
+* Settings Screen
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/Settings.png" width=600>
+
 ### [BONUS] Interactive Prototype
