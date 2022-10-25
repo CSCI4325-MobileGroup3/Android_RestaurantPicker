@@ -29,51 +29,58 @@ Create lists of restaurants, and then randomly pick a restaurant on that list. P
 
 * Make list of nearby restaurants
 * Randomly pick one out of that list
-* Opens google maps for directions to that restaurant
-* Find user location to be able to find nearby restaurants in the area
+* Opens Google Maps for directions to that restaurant
+* Use user location to be able to find nearby restaurants in the area
 * Restaurant description and contact information
 
 **Stretch Features**
 
-* Users can make an account
-* Heart button to favorite a restaurant that you liked
+* Button to add restaurant to a list from the map
 * List of recently visited restaurants
-* Dislike button to list restaurants that you did not enjoy
-* Post comments/reviews about a restaurant you visited
 * History or restaurants you recently viewed in the app
-* Percentage rating of on average how much did people enjoy the restaurant chosen for you
 
 ### 2. Screen Archetypes
 
-- Enter Location screen
-  - Find user location or user manually enters location
-- Stream
-  - User can view a list of nearby restaurants
-  - Restaurant is randomly chosen and displayed to the user
-  - Restaurant description and contact information given
-- Maps
-  - Google maps is displayed to show location and directions to the restaurant chosen
+* Stream
+  - User can view a list of nearby/recently vistited restaurants
+  - User can view a list of recently edited lists
+  - User can randomly pick a restaurant from their lists
+* Details
+  - User can view the restaurants contained in their lists
+* Creation
+  - User can create/edit lists
+  - User can add/remove restaurants from their lists
+* Maps
+  - Show User's location and nearby restaurants on a map
+  - User can view details on restaurants such as description and contact information
+  - Users can add restaurants to their lists
+  - Opens Google Maps to give User directions to restaurants
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* Nearby Restaurants (Left)
+* Lists
 <!--     - Stream -->
-* Location (Middle)
+* Home
 <!--     - Location Screen -->
-* Maps (Right)
+* Maps
 <!--     - Maps screen -->
+* Settings
 
-<!-- **Flow Navigation** (Screen to Screen)
+**Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
+* Home
   - [list screen navigation here]
   - ...
-- [list second screen here]
+* Lists
   - [list screen navigation here]
   - ...
- -->
+* List Editing
+* Map
+* Settings
+  - => None
+
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
