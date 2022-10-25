@@ -36,7 +36,6 @@ Create lists of restaurants, and then randomly pick a restaurant on that list. P
 **Stretch Features**
 
 * Button to add restaurant to a list from the map
-* List of recently visited restaurants
 * History or restaurants you recently viewed in the app
 * History of recently edited lists
 
@@ -62,11 +61,8 @@ Create lists of restaurants, and then randomly pick a restaurant on that list. P
 **Tab Navigation** (Tab to Screen)
 
 * Lists
-<!--     - Stream -->
 * Home
-<!--     - Location Screen -->
 * Maps
-<!--     - Maps screen -->
 * Settings
 
 **Flow Navigation** (Screen to Screen)
@@ -87,8 +83,9 @@ Create lists of restaurants, and then randomly pick a restaurant on that list. P
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+Hand Drawn WireFrame:
+
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/RestaurantPicker_Wireframe.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
