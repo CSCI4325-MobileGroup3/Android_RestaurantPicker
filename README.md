@@ -90,18 +90,20 @@ Hand Drawn WireFrame:
 ### [BONUS] Digital Wireframes & Mockups
 
 * Home Screen
-<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/HomeScreen.png" width=600>
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/FigmaWireframe/HomeScreen.png">
 
 * List Screen
-<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/ListView.png" width=600>
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/FigmaWireframe/ListView.png">
 
 * Edit List Screen
-<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/EditList.png" width=600>
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/FigmaWireframe/EditList.png">
 
 * Map Screen
-<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/Map.png" width=600>
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/FigmaWireframe/Map.png">
 
 * Settings Screen
-<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/tree/main/Documentation/FigmaWireframe/Settings.png" width=600>
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/FigmaWireframe/Settings.png">
 
 ### [BONUS] Interactive Prototype
+
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/proto.gif">
