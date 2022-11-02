@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/layout/activity_main.xml" value="0.553125" />
+        <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.344" />
+        <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/drawable/default_restaurant.xml" value="0.344" />
+        <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.344" />
+        <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/drawable/ic_menu_home_24.xml" value="0.344" />
+        <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/drawable/ic_menu_list_24.xml" value="0.344" />
+        <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/layout/activity_main.xml" value="0.46901172529313234" />
         <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/layout/activity_maps.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/layout/fragment_home.xml" value="0.31354166666666666" />
         <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/layout/home_view.xml" value="0.553125" />
         <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/layout/list_screen_view.xml" value="0.553125" />
         <entry key="..\:/Users/Default User.DESKTOP-KTCTGKB/Documents/AndroidProjects/Android_RestaurantPicker/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.5541666666666667" />
