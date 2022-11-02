@@ -107,3 +107,20 @@ Hand Drawn WireFrame:
 ### [BONUS] Interactive Prototype
 
 <img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/proto.gif">
+
+## Sprint 1:
+
+### User Stories
+
+- [x] As a Dev, I would like to Initialize Github Project in repository
+- [x] As a Dev, I would like to Research Google Maps API
+- [x] As a User, I would like to have a bottom navigation bar
+- [x] As a User, I would like a Home Screen View
+- [x] As a User, I would like a List Screen View
+- [ ] As a User, I would like a Map Screen View
+- [ ] As a User, I would like a Settings Screen View
+- [x] As a User, I would like a Edit List Screen View
+
+### Build Preview
+
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/Sprint1.gif">
