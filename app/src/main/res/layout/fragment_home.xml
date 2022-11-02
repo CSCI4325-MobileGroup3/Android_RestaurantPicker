@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/RecentListTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recently Edited Lists"
+            android:textSize="25dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ScrollView
+            android:id="@+id/RecentListScroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fillViewport="true"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/RecentListTitle">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TODO: CREATE LIST ITEMS TO PUT IN" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TODO: CREATE LIST ITEMS TO PUT IN" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TODO: CREATE LIST ITEMS TO PUT IN" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TODO: CREATE LIST ITEMS TO PUT IN" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TODO: CREATE LIST ITEMS TO PUT IN" />
+            </LinearLayout>
+        </ScrollView>
+
+        <TextView
+            android:id="@+id/RecentRestaurantTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recently Visited Restaurants"
+            android:textSize="25dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/RecentListScroll"
+            app:layout_constraintBottom_toTopOf="@id/RecentRestaurantScroll"/>
+
+        <ScrollView
+            android:id="@+id/RecentRestaurantScroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:fillViewport="true"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/RecentRestaurantTitle"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <ImageView
+                    android:layout_width="400px"
+                    android:layout_height="400px"
+                    android:src="@drawable/default_restaurant"/>
+
+                <ImageView
+                    android:layout_width="400px"
+                    android:layout_height="400px"
+                    android:src="@drawable/default_restaurant" />
+
+                <ImageView
+                    android:layout_width="400px"
+                    android:layout_height="400px"
+                    android:src="@drawable/default_restaurant"/>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+
+</FrameLayout>
