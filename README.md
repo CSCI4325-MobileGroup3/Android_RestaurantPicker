@@ -152,7 +152,6 @@ Hand Drawn WireFrame:
 - [ ] As a User, I should be able to edit an already existing list of restaurants
 - [x] As a User, I should be able to get a random restaurant selected from their list
 - [x] As a User, I would like my created lists to be saved between sessions
-- [ ] As a User, I should be able to open Google Maps to get directions to the selected restaurant
 
 ### Build Preview
 <img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/showing%20saved%20data.gif">
