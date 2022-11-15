@@ -29,12 +29,15 @@ Create lists of restaurants, and then randomly pick a restaurant on that list. P
 
 * Make list of nearby restaurants
 * Randomly pick one out of that list
-* Opens Google Maps for directions to that restaurant
-* Use user location to be able to find nearby restaurants in the area
-* Restaurant description and contact information
+* Save the lists so they can be reused between sessions
+
 
 **Stretch Features**
 
+* Edit an already existing list
+* Use user location to be able to find nearby restaurants in the area
+* Restaurant description and contact information
+* Opens Google Maps for directions to that restaurant
 * Button to add restaurant to a list from the map
 * History or restaurants you recently viewed in the app
 * History of recently edited lists
