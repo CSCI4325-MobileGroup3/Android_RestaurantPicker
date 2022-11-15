@@ -140,3 +140,5 @@ Hand Drawn WireFrame:
 <img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/Sprint2.gif">
 
 <img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/Sprint2_AddToList.gif">
+
+<img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/showing%20saved%20data.gif">
