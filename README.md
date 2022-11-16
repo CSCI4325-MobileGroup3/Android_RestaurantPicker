@@ -5,9 +5,9 @@
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
-4. [Sprint 1 Progress](#Sprint 1)
-5. [Sprint 2 Progress](#Sprint 2)
-6. [Sprint 3 Progress](#Sprint 3)
+4. [Sprint 1 Progress](#Sprint 1 11/1)
+5. [Sprint 2 Progress](#Sprint 2 11/8)
+6. [Sprint 3 Progress](#Sprint 3 11/15)
 7. [Demo Presentation](https://youtu.be/Tvfo39YfgsM)
 
 ## Overview
