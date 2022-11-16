@@ -155,3 +155,7 @@ Hand Drawn WireFrame:
 
 ### Build Preview
 <img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/showing%20saved%20data.gif">
+
+## Final Demo Presentation
+
+[Video Link](https://youtu.be/Tvfo39YfgsM)
