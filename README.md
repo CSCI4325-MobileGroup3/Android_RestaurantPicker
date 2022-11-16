@@ -3,8 +3,12 @@
 ## Table of Contents
 
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
+4. [Sprint 1 Progress](#Sprint 1)
+5. [Sprint 2 Progress](#Sprint 2)
+6. [Sprint 3 Progress](#Sprint 3)
+7. [Demo Presentation](https://youtu.be/Tvfo39YfgsM)
 
 ## Overview
 
@@ -111,7 +115,7 @@ Hand Drawn WireFrame:
 
 <img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/proto.gif">
 
-## Sprint 1:
+## Sprint 1 11/1
 
 ### User Stories
 
@@ -128,7 +132,7 @@ Hand Drawn WireFrame:
 
 <img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/Sprint1.gif">
 
-## Sprint 2:
+## Sprint 2 11/8
 
 ### User Stories
 
@@ -144,7 +148,7 @@ Hand Drawn WireFrame:
 
 <img src="https://github.com/CSCI4325-MobileGroup3/Android_RestaurantPicker/blob/main/Documentation/Sprint2_AddToList.gif">
 
-## Sprint 3:
+## Sprint 3 11/15
 
 ### User Stories
 
